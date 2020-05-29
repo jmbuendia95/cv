@@ -1,0 +1,14 @@
+body {
+  background-color: #dddddd;
+}
+h1 {color: black;}
+th{color: black;}
+p {color: #003152;}
+ul {color: #003152;}
+hr {
+  border-color: gray;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
